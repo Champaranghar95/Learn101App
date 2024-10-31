@@ -11,7 +11,7 @@
 ## 🚀 Getting Started
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/YourUsername/Learn101.git
+    git clone https://github.com/Champaranghar95/Learn101.git
     ```
 2. **Open in Android Studio**: Import the project into Android Studio.
 3. **Build and Run**: Run the app on an emulator or an Android device to start learning!
